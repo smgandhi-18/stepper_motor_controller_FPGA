@@ -35,5 +35,5 @@ To use the project:
 
 ## License
 
-This project is provided under an open-source license. See the LICENSE file for details.
+This project is provided under an open-source license. See the LICENSE file for details. Provide credits to the author(s).
 
